@@ -1,0 +1,18 @@
+---
+title: "John Charles"
+image: mypicture.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/JECharles
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/evan-charles-connect
+    - icon: inboxes
+      text: Contact
+      href: mailto:jec021@uark.edu
+---
+
+As a senior Industrial Engineering student at the University of Arkansas, I am cultivating knowledge in operations, process improvement, and supply chain systems. My academic journey incorporates coursework in operations research, logistics, and project management, equipping me with foundational insights into efficient and effective systems management.
