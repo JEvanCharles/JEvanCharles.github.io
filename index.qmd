@@ -6,7 +6,7 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/JECharles
+      href: https://github.com/JEvanCharles
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/evan-charles-connect
